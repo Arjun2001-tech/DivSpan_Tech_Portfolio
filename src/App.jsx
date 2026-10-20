@@ -154,7 +154,7 @@ function App() {
               <a href="https:www.linkedin.com/in/arjun-s-780549270" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn <ExternalLink size={12} /></a>
               <a href="mailto:arjunarun2542@gmail.com"><Mail size={17} /> Email <ExternalLink size={12} /></a>
               <a
-                href="https://wa.me/919981287934?text=Hello%2C%20I%20am%20interested%20in%20your%20services."
+                href="https://wa.me/919981287924?text=Hello%2C%20I%20am%20interested%20in%20your%20services."
                 // href="https://wa.me/919981287934"
                 target="_blank"
                 rel="noopener noreferrer"
